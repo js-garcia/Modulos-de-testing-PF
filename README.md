@@ -54,5 +54,6 @@ Instalación:
 - **Página login: http://localhost:8080/profile
 - **Página users: http://localhost:8080/users (Para entrar como ADMIN, luego de registrase salir y hacer login, solo asi podra ver users)
 - **Página API: http://localhost:8080/api/docs/
-Used by
+  
+- Used by
 Este proyecto se creo para cumplir con la entrega del desafio "Módulos de testing para el Proyecto Final".
